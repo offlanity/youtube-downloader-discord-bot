@@ -18,9 +18,18 @@ A **very** simple Discord bot that uses `yt-dlp` to download YouTube videos loca
 
 4. Run `bot.py`
 
+## Usage
+To use the bot, start your message with `!start` followed by the YouTube link.
+
+Example : `!start https://www.youtube.com/watch?v=dQw4w9WgXcQ`
+
 ## Note
 This Discord bot is very basic and not particularly polished.  
 I made it to suit my own needs for running `yt-dlp` via Discord,  
 since I got really tired of copy-pasting  
 `yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" https://www.youtube.com/watch?v=dQw4w9WgXcQ"`  
 every single time.
+
+Ill try my very best to make this more production ready in the future...
+
+But for now, good luck figuring it out on your own :3
