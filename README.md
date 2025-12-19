@@ -1,4 +1,4 @@
-# youtube-downloader-discord-bot
+# Preview
 
 A **very** simple Discord bot that uses `yt-dlp` to download YouTube videos locally.
 
